@@ -1,0 +1,7 @@
+{
+  "name": "kwu-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
