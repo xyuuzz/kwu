@@ -1,0 +1,8 @@
+/* Set variables for all modes */
+
+.searchbar-input {
+    --background: #e7f5ff;
+
+    border: 2px solid black;
+    width: 50px;
+}
